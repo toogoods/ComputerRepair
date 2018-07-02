@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/shenqing/shenqing",
+    "pages/shenhe/shenhe",
+    "pages/chayue/chayue"
+  ],
+  "window": {
+    "defaultTitle": "My App",
+    "pullRefresh": true
+  }
+}

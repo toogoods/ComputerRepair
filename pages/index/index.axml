@@ -1,0 +1,5 @@
+<view>
+  <view class="item" a:for="{{arr}}">
+    <icon-button imgUrl="{{item.imgUrl}}" pageUrl="{{item.pageUrl}}" />
+  </view>
+</view>

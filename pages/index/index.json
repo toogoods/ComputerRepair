@@ -1,0 +1,6 @@
+{
+    "usingComponents": {
+        "grid": "mini-ddui/es/grid/index",
+        "icon-button": "/components/icon-button/index"
+    }
+}
